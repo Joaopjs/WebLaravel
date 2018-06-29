@@ -1,0 +1,1 @@
+{!! app(App\Http\Controllers\PrincipalController::class)->celular(app('request')) !!}
